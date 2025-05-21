@@ -1,10 +1,19 @@
-# PaulScans
- 
+
+
+```
+  ____             _ ____                      
+ |  _ \ __ _ _   _| / ___|  ___ __ _ _ __  ___ 
+ | |_) / _` | | | | \___ \ / __/ _` | '_ \/ __|
+ |  __/ (_| | |_| | |___) | (_| (_| | | | \__ \
+ |_|   \__,_|\__,_|_|____/ \___\__,_|_| |_|___/
+                                                                                           
+ ```                                            
+
 ## Description
 PaulScans is a basic vulnerability scanner written in Python that can:
 - Perform port scanning
 - Grab banners from open ports
-- Search for known vulnerabilities (CVEs) using public APIs (e.g., Vulners)
+- Search for known vulnerabilities (CVEs) using Vulners
 - Generate a simple HTML or PDF report summarizing findings
 
 This project is intended for educational purposes and meant to showcase the skills I've learned in the past few months. 
@@ -61,7 +70,7 @@ python paulscans.py --target 192.168.1.1 --output report.html
 
 ## Folder Structure
 ```
-vulnerability-scanner/
+paulscans/
 ├── paulscans.py            # Main script
 ├── utils.py                # Helper functions (e.g., API calls, parsing)
 ├── report_generator.py     # Report output logic
