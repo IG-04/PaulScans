@@ -91,6 +91,7 @@ paulscans/
 
 ## TODO
 - Upload the rest of the project LOL
+- Add screenshots
 - Add UDP scanning support
 - Integrate multithreading for faster scans
 
