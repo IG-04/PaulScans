@@ -85,12 +85,11 @@ paulscans/
 ---
 
 ## APIs Used
-- [Vulners API](https://vulners.com/) for CVE lookup
+- [Vulners API](https://vulners.com/) for CVE lookups
 
 ---
 
 ## TODO
-- Upload the rest of the project LOL
 - Add screenshots
 - Add UDP scanning support
 - Integrate multithreading for faster scans
