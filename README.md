@@ -40,7 +40,7 @@ This project is intended for educational purposes and meant to showcase the skil
 ## Installation
 ```bash
 # Clone the repo
-git clone https://github.com/IG-04/PaulScans.git
+git clone https://github.com/4guilera/PaulScans.git
 cd paulscans
 
 # Install dependencies
